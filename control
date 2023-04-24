@@ -1,0 +1,9 @@
+Package: rootlesshooks
+Priority: important
+Essential: yes
+Section: Tweaks
+Maintainer: Nick Chan <towinchenmi@gmail.com>
+Architecture: iphoneos-arm64
+Version: 1.0
+Homepage: https://github.com/palera1n/rootlesshooks
+Description: stolen fugu15 code for palera1n
