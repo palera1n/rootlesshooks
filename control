@@ -3,7 +3,8 @@ Priority: important
 Essential: yes
 Section: Tweaks
 Maintainer: Nick Chan <towinchenmi@gmail.com>
+Depends: mobilesubstrate
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 0.1
 Homepage: https://github.com/palera1n/rootlesshooks
 Description: stolen fugu15 code for palera1n
